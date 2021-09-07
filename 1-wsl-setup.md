@@ -1,5 +1,7 @@
 __Software needed for Windows10 Professional__
 
+Start by downloading and installing the below 3 applications.
+
 [Sifive Freedom Studio](https://www.sifive.com/software)
 
 [Vivado HL WebPack](https://www.xilinx.com/member/forms/download/xef.html?filename=Xilinx_Unified_2021.1_0610_2318_Win64.exe)
@@ -8,8 +10,7 @@ __Software needed for Windows10 Professional__
 
 __Windows Subsystem for Linux and Ubuntu 20.04 LTS setup__
 
-Follow the "Manual Installation Steps" listed [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10) to get WSL enabled.
-Next install Ubuntu 20.04 LTS.
+Follow the "Manual Installation Steps" listed [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10) to get WSL enabled and Ubuntu 20.04 LTS installed.
 
 ![image](https://user-images.githubusercontent.com/8312541/132419142-06126be2-6136-42b6-95b9-35481e2224c8.png)
 
