@@ -4,6 +4,8 @@ __Software needed for Windows10 Professional__
 
 [Vivado HL WebPack](https://www.xilinx.com/member/forms/download/xef.html?filename=Xilinx_Unified_2021.1_0610_2318_Win64.exe)
 
+[MobaXterm](https://download.mobatek.net/2132021082033134/MobaXterm_Installer_v21.3.zip)
+
 __Windows Subsystem for Linux and Ubuntu 20.04 LTS setup__
 
 Follow the "Manual Installation Steps" listed [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10) to get WSL enabled.
