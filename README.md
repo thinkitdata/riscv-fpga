@@ -5,7 +5,7 @@ The Arty A7-100T contains a Xilinx XC7A100T FPGA which is the largest FPGA avail
 
 # Chapter 11 - Answers to Exercises
 
-[Exercise 1](Ex__1_hello_riscv.md)
+[Windows Subsystem for Linux setup](1-wsl-setup.md)
 
 [Exercise 2](Ex__2_riscv_assembly.md)
 
