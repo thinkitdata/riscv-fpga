@@ -11,7 +11,7 @@ Next install Ubuntu 20.04 LTS.
 
 If you take a close look at the screen you'll notice that the IP address may be different than your actual hosts IP address.
 
-If you look in the Virtual Switch Manager w/in Hyper-V Manager you'll notice that WSL creates it's own internal networking virtual switch.
+If you look in the Virtual Switch Manager w/in Hyper-V Manager you'll notice that WSL creates it's own internal networking virtual switch.  This will be an important thing to keep in mind when we later configure X11 in Ubuntu and go to export the display for the Linux Vivado install.  ;-)
 
 ![image](https://user-images.githubusercontent.com/8312541/132419796-b2ac726b-4e83-46dd-b65f-1ac28b3a53b8.png)
 
