@@ -1,6 +1,7 @@
 __Software needed for Windows__
 
-[Sifive Freedom Studio](https://www.sifive.com/boards)
+[Sifive Freedom Studio](https://www.sifive.com/software)
+
 [Vivado HL WebPack](https://www.xilinx.com/member/forms/download/xef.html?filename=Xilinx_Unified_2021.1_0610_2318_Win64.exe)
 
 __Windows Subsystem for Linux and Ubuntu 20.04 LTS setup__
