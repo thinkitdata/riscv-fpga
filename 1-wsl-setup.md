@@ -1,4 +1,4 @@
-__Software needed for Windows__
+__Software needed for Windows10 Professional__
 
 [Sifive Freedom Studio](https://www.sifive.com/software)
 
