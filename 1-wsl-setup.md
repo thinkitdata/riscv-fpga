@@ -9,6 +9,13 @@ Next install Ubuntu 20.04 LTS.
 
 ![image](https://user-images.githubusercontent.com/8312541/132419262-55bc7a7a-d92e-43dc-b368-06cd46f98eae.png)
 
+If you take a close look at the screen you'll notice that the IP address may be different than your actual hosts IP address.
+
+If you look in the Virtual Switch Manager w/in Hyper-V Manager you'll notice that WSL creates it's own internal networking virtual switch.
+
+![image](https://user-images.githubusercontent.com/8312541/132419796-b2ac726b-4e83-46dd-b65f-1ac28b3a53b8.png)
+
+
 
 
 
