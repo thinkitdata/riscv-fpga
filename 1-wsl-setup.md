@@ -1,6 +1,6 @@
-__Software needed for Windows10 Professional__
+# Steps necessary to get WSL2 and Ubuntu 20.04 LTS configured on your Win10 Pro host machine
 
-Start by downloading and installing the below 3 applications.
+__Software needed for Windows10 Professional__
 
 * [Sifive Freedom Studio](https://www.sifive.com/software) (Risc-V development environment for Windows)
 
