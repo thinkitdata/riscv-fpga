@@ -2,9 +2,9 @@ __Software needed for Windows10 Professional__
 
 Start by downloading and installing the below 3 applications.
 
-* [Sifive Freedom Studio](https://www.sifive.com/software)
+* [Sifive Freedom Studio](https://www.sifive.com/software) (Risc-V development environment for Windows)
 
-* [Vivado HL WebPack](https://www.xilinx.com/member/forms/download/xef.html?filename=Xilinx_Unified_2021.1_0610_2318_Win64.exe)
+* [Vivado HL WebPack](https://www.xilinx.com/member/forms/download/xef.html?filename=Xilinx_Unified_2021.1_0610_2318_Win64.exe) (Xilinx FPGA development environment for Windows)
 
 * [MobaXterm](https://download.mobatek.net/2132021082033134/MobaXterm_Installer_v21.3.zip) (X11 for Windows)
 
