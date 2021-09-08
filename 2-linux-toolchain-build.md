@@ -67,3 +67,14 @@ You should see the installer launch via your MobaXterm X11 display.
 ![image](https://user-images.githubusercontent.com/8312541/132583558-94566558-4130-4823-8eea-a22bc2551a31.png)
 The installation takes a L-O-N-G time.  Mine took ~3hrs or so...
 ![image](https://user-images.githubusercontent.com/8312541/132583699-1089bfec-d2de-4d65-9d4e-d49b7b2ac7f0.png)
+
+4.  Install **libncurses5**:
+```
+sudo apt install libncurses5
+```
+Test the installation
+```
+kwygbo@thinkitdata-ws1:/mnt/f/dev/fpga/tools/Xilinx/Vivado/2021.1$ ./bin/vivado -help
+```
+![image](https://user-images.githubusercontent.com/8312541/132586135-1b67bf94-82c2-4204-8259-f1e24c0cc2a6.png)
+
