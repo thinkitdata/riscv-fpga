@@ -16,6 +16,13 @@ Follow the "Manual Installation Steps" listed [here](https://docs.microsoft.com/
 ```
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 ```
+2. Verify that you meet the requirements for **Windows Subsystem for Linux v2**:
+For x64 systems: Version 1903 or higher, with Build 18362 or higher.
+
+3. Enable **Virtual Machine Feature**, launch PowerShell and run:
+```
+dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+```
 
 ![image](https://user-images.githubusercontent.com/8312541/132419142-06126be2-6136-42b6-95b9-35481e2224c8.png)
 
