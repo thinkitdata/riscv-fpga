@@ -106,3 +106,10 @@ Type *exit*
 ![image](https://user-images.githubusercontent.com/8312541/132587877-bf6a7602-f5ea-4910-9f54-a1bcefeecc57.png)
 
 # D. More Linux utilities installation
+
+4.  Install additional utilities needed for building the tool chain:
+```
+sudo apt-get install autoconf automake autotools-dev curl libmpc-dev libmpfr-dev libgmp-dev libusb-1.0-0-dev gawk
+build-essential bison flex texinfo gperf libtool patchutils bc zlib1g-dev device-tree-compiler pkg-config
+libexpat-dev python wget
+```
