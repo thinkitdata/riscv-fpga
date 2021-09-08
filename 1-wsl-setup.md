@@ -18,6 +18,7 @@ dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux 
 ```
 2. Verify that you meet the requirements for **Windows Subsystem for Linux v2**:
 
+* To check your version and build number, select **Windows logo key + R, type winver, select OK**.
 * For x64 systems: Version 1903 or higher, with Build 18362 or higher.
 
 3. Enable **Virtual Machine Feature**, launch PowerShell and run:
