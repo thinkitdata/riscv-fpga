@@ -41,6 +41,8 @@ wsl --set-default-version 2
 
 ![image](https://user-images.githubusercontent.com/8312541/132419235-d373bba2-bf01-499d-82ba-f54e795c713f.png)
 
+6. Install **Ubuntu 20.04 LTS** from the [Microsoft Store](https://aka.ms/wslstore)
+
 ![image](https://user-images.githubusercontent.com/8312541/132419262-55bc7a7a-d92e-43dc-b368-06cd46f98eae.png)
 
 If you take a close look at the screen you'll notice that the IP address may be different than your actual hosts IP address.
