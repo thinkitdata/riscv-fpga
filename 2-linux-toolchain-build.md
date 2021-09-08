@@ -38,6 +38,16 @@ Once installed launch it and this is the console you should see:
 In mobaxterm settings -> Configuration -> x11 -> **set OpenGL Acceleration to: Hardware**
 ![image](https://user-images.githubusercontent.com/8312541/132580412-290d6166-2765-42c5-977d-0befb85084bd.png)
 **Notice that in the yellow circle on the above image that the X11 display is the IP address of your Windows host.**
+In our case our X11 display is 10.0.0.48:0.0.  This is what we'll set the $DISPLAY variable to in Ubuntu after X11 is installed.
 
+Now we install X11 on Ubuntu.
 
+2. Install **x11-server-utils**:
+```
+sudo apt install x11-xserver-utils
+```
+3. Install **xorg**:
+```
+sudo apt install xorg
+```
 
