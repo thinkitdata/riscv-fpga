@@ -22,3 +22,7 @@ export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
 ```
 export PATH=$PATH:$JAVA_HOME/bin
 ```
+6. Let's update our system (could've done this prior to step 1 but this will suffice):
+```
+sudo apt-get update
+```
