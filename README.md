@@ -12,3 +12,6 @@ __Steps to perform__
 3.  [Step 3](Ex__3_riscv_expr.md)
 
 4.  [Step 4](Ex__4_arty_riscv.md)
+
+![image](https://user-images.githubusercontent.com/8312541/132567007-0c88e86e-6e4d-4796-a823-21c9045f53e1.png)
+
