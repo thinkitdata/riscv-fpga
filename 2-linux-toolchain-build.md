@@ -35,7 +35,8 @@ We'll do the Windows host installation first.
 Once installed launch it and this is the console you should see:
 ![image](https://user-images.githubusercontent.com/8312541/132576783-59ea90e4-c32a-4f97-b6d8-6c94ceb5b498.png)
 
-In mobaxterm settings -> Configuration -> x11 -> **set OpenGL Acceleration to: Hardware**
-![image](https://user-images.githubusercontent.com/8312541/132577341-f17a4f5e-222d-4871-afc6-95b539bf5acf.png)
+In mobaxterm settings -> Configuration -> x11 -> **set OpenGL Acceleration to: Hardware
+![image](https://user-images.githubusercontent.com/8312541/132578390-e7fd7108-481b-41a0-baa6-0a8022e02900.png)
+
 
 
