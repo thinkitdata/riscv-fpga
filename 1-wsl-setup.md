@@ -12,6 +12,11 @@ __Windows Subsystem for Linux and Ubuntu 20.04 LTS setup__
 
 Follow the "Manual Installation Steps" listed [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10) to get WSL enabled and Ubuntu 20.04 LTS installed.
 
+1. Install **Windows Subsystem for Linux**, launch PowerShell and run:
+```
+dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+```
+
 ![image](https://user-images.githubusercontent.com/8312541/132419142-06126be2-6136-42b6-95b9-35481e2224c8.png)
 
 ![image](https://user-images.githubusercontent.com/8312541/132419192-3ea90f13-8488-4f3d-8c20-457a072dea25.png)
