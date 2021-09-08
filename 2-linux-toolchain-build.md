@@ -107,7 +107,21 @@ Type *exit*
 
 # D. More Linux utilities installation
 
-4.  Install additional utilities needed for building the tool chain:
+1.  Install additional utilities needed for building the tool chain (could have installed these at step A):
 ```
 sudo apt-get install autoconf automake autotools-dev curl libmpc-dev libmpfr-dev libgmp-dev libusb-1.0-0-dev gawk build-essential bison flex texinfo gperf libtool patchutils bc zlib1g-dev pkg-config libexpat-dev python wget
+```
+
+# E. Build Scala Build Tool
+```
+echo "deb https://dl.bintray.com/sbt/debian /" | sudo tee -a /etc/apt/sources.list.d/sbt.list
+```
+```
+sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 642AC823
+```
+```
+sudo apt-get update
+```
+```
+sudo apt-get install sbt
 ```
