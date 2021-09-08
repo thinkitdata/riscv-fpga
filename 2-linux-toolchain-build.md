@@ -72,7 +72,7 @@ The installation takes a L-O-N-G time.  Mine took ~3hrs or so...
 ```
 sudo apt install libncurses5
 ```
-Test the installation
+Test the installation using **YOUR installation path**:
 ```
 kwygbo@thinkitdata-ws1:/mnt/f/dev/fpga/tools/Xilinx/Vivado/2021.1$ ./bin/vivado -help
 ```
