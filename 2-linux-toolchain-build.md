@@ -26,3 +26,8 @@ export PATH=$PATH:$JAVA_HOME/bin
 ```
 sudo apt-get update
 ```
+__Now we have to install X11 on both our Ubuntu environment and our Windows host__
+
+We'll do the Windows host installation first.
+
+1. On your Windows host install MobaXterm (free version) from [here](https://mobaxterm.mobatek.net/download.html)
