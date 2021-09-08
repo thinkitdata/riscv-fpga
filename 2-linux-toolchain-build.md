@@ -136,8 +136,10 @@ sudo make install
 sudo apt install scala
 ```
 # H. Download GNU Embeded Toolchain for Ubuntu
-Download from Sifive [here[(https://www.sifive.com/software)
+Download from Sifive [here](https://www.sifive.com/software)
 
 My saved location
 ![image](https://user-images.githubusercontent.com/8312541/132598305-f2a1eb67-8a9f-4bbe-b70e-111a4fd7d266.png)
+cd to that dir
+sudo tar xvf *.gz
 
