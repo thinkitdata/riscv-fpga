@@ -7,7 +7,7 @@ __Steps to perform__
 
 [Windows Subsystem for Linux setup and Ubuntu install](1-wsl-setup.md)
 
-[Linux based toolchain install and configuration](2-linux-toolchain-build.md)
+[Linux toolchain install and configuration](2-linux-toolchain-build.md)
 
 [Exercise 3](Ex__3_riscv_expr.md)
 
