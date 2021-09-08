@@ -31,3 +31,7 @@ __Now we have to install X11 on both our Ubuntu environment and our Windows host
 We'll do the Windows host installation first.
 
 1. On your Windows host install MobaXterm (free version) from [here](https://mobaxterm.mobatek.net/download.html)
+
+Once installed launch it and this is the console you should see:
+![image](https://user-images.githubusercontent.com/8312541/132576783-59ea90e4-c32a-4f97-b6d8-6c94ceb5b498.png)
+
