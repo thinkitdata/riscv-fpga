@@ -44,8 +44,7 @@ wsl --set-default-version 2
 6. Install **Ubuntu 20.04 LTS** from the [Microsoft Store](https://aka.ms/wslstore)
 
 ![image](https://user-images.githubusercontent.com/8312541/132419262-55bc7a7a-d92e-43dc-b368-06cd46f98eae.png)
-
-If you take a close look at the screen you'll notice that the IP address may be different than your actual hosts IP address.
+When the Ubuntu installation completes you'll notice that the IP address may be different than your actual hosts IP address.
 
 If you look in the Virtual Switch Manager w/in Hyper-V Manager you'll notice that WSL creates it's own internal networking virtual switch.  This will be an important thing to keep in mind when we later configure X11 in Ubuntu and go to export the display for the Linux Vivado install.  ;-)
 
