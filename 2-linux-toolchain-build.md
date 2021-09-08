@@ -120,3 +120,18 @@ curl -sL "https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x2EE0EA64E40A89
 sudo apt-get update
 sudo apt-get install sbt
 ```
+# F. Verilator Verilog HDL simulator
+```
+cd ~
+git clone http://git.veripool.org/git/verilator
+cd verilator
+unset VERILATOR_ROOT
+autoconf
+./configure
+make -j `nproc`
+sudo make install
+```
+# F. Install Scala
+```
+sudo apt install scala
+```
