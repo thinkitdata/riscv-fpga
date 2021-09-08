@@ -13,5 +13,10 @@ __Steps to perform__
 
 4.  [Step 4](Ex__4_arty_riscv.md)
 
+# Sifive Freedom E300 Risc-V CPU
 ![image](https://user-images.githubusercontent.com/8312541/132567007-0c88e86e-6e4d-4796-a823-21c9045f53e1.png)
+
+# Arty A7-100T FPGA board
+![image](https://user-images.githubusercontent.com/8312541/132568331-9c6406c7-0cc6-43bf-a4aa-1e86f65e5d94.png)
+
 
