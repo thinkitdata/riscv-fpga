@@ -50,4 +50,20 @@ sudo apt install x11-xserver-utils
 ```
 sudo apt install xorg
 ```
+4. Export your **DISPLAY** environment variable using the display value from MobaXterm (i.e. your Windows host IP):
+```
+export DISPLAY=10.0.0.48:0.0
+```
 
+__Now we have to download and install Vivado as part of our Linux tool chain__
+
+1.  Download [Vivado Design Suite for Linux](https://www.xilinx.com/member/forms/download/xef.html?filename=Xilinx_Unified_2020.1_0602_1208_Lin64.bin)
+2.  Place the downloaded bin file into a convenient and easily accessibly directory to install from and cd into it.  I used /mnt/f/dev/fpga/.
+3.  Install **Vivado**:
+```
+sudo ./Xilinx*.bin
+```
+You should see the installer launch via your MobaXterm X11 display.
+![image](https://user-images.githubusercontent.com/8312541/132583558-94566558-4130-4823-8eea-a22bc2551a31.png)
+The installation takes a L-O-N-G time.  Mine took ~3hrs or so...
+![image](https://user-images.githubusercontent.com/8312541/132583699-1089bfec-d2de-4d65-9d4e-d49b7b2ac7f0.png)
