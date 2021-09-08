@@ -2,6 +2,8 @@
 
 __This is required for building the RISC-V firmware image that will be programmed onto our FPGA__
 
+# A. device-tree-compiler and Java installation
+
 1. Install **device-tree-compiler**:
 ```
 sudo apt-get install device-tree-compiler
@@ -26,6 +28,8 @@ export PATH=$PATH:$JAVA_HOME/bin
 ```
 sudo apt-get update
 ```
+# B. X11 installation
+
 __Now we have to install X11 on both our Ubuntu environment and our Windows host__
 
 We'll do the Windows host installation first.
@@ -54,6 +58,7 @@ sudo apt install xorg
 ```
 export DISPLAY=10.0.0.48:0.0
 ```
+# C. Vivado installation
 
 __Now we have to download and install Vivado as part of our Linux tool chain__
 
@@ -97,6 +102,7 @@ Gui stops and your console is at the *Vivado%* prompt
 ![image](https://user-images.githubusercontent.com/8312541/132587711-1cc0e248-cbca-4f1b-88b3-a8aa75449e77.png)
 
 Type *exit*
+
 ![image](https://user-images.githubusercontent.com/8312541/132587877-bf6a7602-f5ea-4910-9f54-a1bcefeecc57.png)
 
-
+# D. More Linux utilities installation
