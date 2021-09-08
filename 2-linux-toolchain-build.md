@@ -2,7 +2,11 @@
 
 __This is required for building the RISC-V firmware image that will be programmed onto our FPGA__
 
-1. Install **Windows Subsystem for Linux**, launch PowerShell and run:
+1. Install **device-tree-compiler**:
+```sudo apt-get install device-tree-compiler
 ```
-dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
-```
+
+sudo apt-get install default-jre
+sudo apt install openjdk-8-jdk
+export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+export PATH=$PATH:$JAVA_HOME/bin
