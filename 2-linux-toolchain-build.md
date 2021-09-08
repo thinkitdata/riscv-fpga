@@ -78,3 +78,11 @@ kwygbo@thinkitdata-ws1:/mnt/f/dev/fpga/tools/Xilinx/Vivado/2021.1$ ./bin/vivado 
 ```
 ![image](https://user-images.githubusercontent.com/8312541/132586135-1b67bf94-82c2-4204-8259-f1e24c0cc2a6.png)
 
+```
+kwygbo@thinkitdata-ws1:/mnt/f/dev/fpga/tools/Xilinx/Vivado/2021.1$ ./bin/vivado -mode gui
+```
+![image](https://user-images.githubusercontent.com/8312541/132586859-cb51761f-7152-4fea-aaf0-38745dc52f98.png)
+
+![image](https://user-images.githubusercontent.com/8312541/132586994-58715d98-f88a-4626-aa48-c876607dc595.png)
+
+
