@@ -36,6 +36,6 @@ Once installed launch it and this is the console you should see:
 ![image](https://user-images.githubusercontent.com/8312541/132576783-59ea90e4-c32a-4f97-b6d8-6c94ceb5b498.png)
 
 In mobaxterm settings -> Configuration -> x11 -> **set OpenGL Acceleration to: Hardware**
-![image](https://user-images.githubusercontent.com/8312541/132577018-4cf00fed-105c-4bc8-8b1f-c55cd206f4cb.png)
+![image](https://user-images.githubusercontent.com/8312541/132577222-d2d4b284-bd75-4d41-b74c-1ef04506e4ed.png)
 
 
