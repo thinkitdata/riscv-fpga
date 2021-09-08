@@ -3,7 +3,8 @@
 __This is required for building the RISC-V firmware image that will be programmed onto our FPGA__
 
 1. Install **device-tree-compiler**:
-```sudo apt-get install device-tree-compiler
+```
+sudo apt-get install device-tree-compiler
 ```
 
 sudo apt-get install default-jre
