@@ -85,4 +85,14 @@ kwygbo@thinkitdata-ws1:/mnt/f/dev/fpga/tools/Xilinx/Vivado/2021.1$ ./bin/vivado 
 
 ![image](https://user-images.githubusercontent.com/8312541/132586994-58715d98-f88a-4626-aa48-c876607dc595.png)
 
+**Stop the gui**
+Click on *Tcl Console* in the bottom left of the gui
+![image](https://user-images.githubusercontent.com/8312541/132587380-b7342ab7-f61f-412a-9156-19317c35e456.png)
+Type *stop_gui* into the bottom command bar
+![image](https://user-images.githubusercontent.com/8312541/132587554-5e18eb4f-ed9b-465f-80de-4bf2549d167c.png)
+Gui stops and your console is at the *Vivado%* prompt
+![image](https://user-images.githubusercontent.com/8312541/132587711-1cc0e248-cbca-4f1b-88b3-a8aa75449e77.png)
+Type *exit*
+![image](https://user-images.githubusercontent.com/8312541/132587877-bf6a7602-f5ea-4910-9f54-a1bcefeecc57.png)
+
 
