@@ -20,6 +20,8 @@ dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux 
 
 * To check your version and build number, select **Windows logo key + R, type winver, select OK**.
 * For x64 systems: Version 1903 or higher, with Build 18362 or higher.
+![image](https://user-images.githubusercontent.com/8312541/132558464-734dfe60-61e6-4ffb-b692-cf908097b027.png)
+
 
 3. Enable **Virtual Machine Feature**, launch PowerShell and run:
 ```
