@@ -90,6 +90,7 @@ Click on *Tcl Console* in the bottom left of the gui
 ![image](https://user-images.githubusercontent.com/8312541/132587380-b7342ab7-f61f-412a-9156-19317c35e456.png)
 
 Type *stop_gui* into the bottom command bar
+
 ![image](https://user-images.githubusercontent.com/8312541/132588118-96304dcd-759f-4f22-9695-b19212e2b69e.png)
 
 Gui stops and your console is at the *Vivado%* prompt
