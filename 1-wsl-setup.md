@@ -1,4 +1,4 @@
-# Steps necessary to get WSL2 and Ubuntu 20.04 LTS configured on your Win10 Pro host machine
+# Steps necessary to get WSL2 and Ubuntu 20.04 LTS installed on your Win10 Pro host machine
 
 __Software needed for Windows10 Professional__
 
