@@ -9,7 +9,7 @@ __Steps to perform__
 
 2.  [Linux toolchain build](2-linux-toolchain-build.md)
 
-3.  [Step 3](Ex__3_riscv_expr.md)
+3.  [Compile FPGA image](3-compile-FPGA-image.md)
 
 4.  [Step 4](Ex__4_arty_riscv.md)
 
