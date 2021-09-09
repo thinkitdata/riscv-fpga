@@ -1,6 +1,7 @@
 # Steps necessary for compiling the FPGA image
 
-# 1. Download the Digilent board files (adjust the below paths to match your particular directory locations)
+# 1. Download the Digilent board files
+__(adjust the below paths to match your particular directory locations)__
 ```
 git clone https://github.com/Digilent/vivado-boards.git
 sudo cp -r /mnt/f/dev/fpga/vivado-boards/new/board_files/* /mnt/f/dev/fpga/tools/Xilinx/Vivado/2021.1/data/boards/
