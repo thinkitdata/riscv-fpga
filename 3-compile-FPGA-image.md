@@ -28,3 +28,8 @@ To see the proper name for our Arty A7-100T board we need to look at: freedom/fp
 We need to change this to arty_a7_100
 ![image](https://user-images.githubusercontent.com/8312541/132752936-9b4700fd-7765-4817-b360-0db7d7f3aa78.png)
 
+We now need to build the toolchain for generating the implentation files that will allow us to compile our RISC-V Verilog and FPGA image.
+```
+/mnt/f/dev/fpga/freedom/rocket-chip/riscv-tools/build.sh
+```
+
