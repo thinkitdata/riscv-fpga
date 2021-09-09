@@ -22,6 +22,8 @@ We need to edit /mnt/f/dev/fpga/freedom/Makefile.e300artydevkit (again adjust fo
 Notice the highlighted BOARD type of arty
 ![image](https://user-images.githubusercontent.com/8312541/132753217-c2b4f68c-f682-45fd-923c-73154bc22347.png)
 
+To see the proper name for our Arty A7-100T board we need to look at: freedom/fpga-shells/xilinx
+![image](https://user-images.githubusercontent.com/8312541/132754453-532bf685-5fed-4453-b11e-130d770b4a56.png)
 
 We need to change this to arty_a7_100
 ![image](https://user-images.githubusercontent.com/8312541/132752936-9b4700fd-7765-4817-b360-0db7d7f3aa78.png)
