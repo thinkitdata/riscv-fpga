@@ -151,7 +151,7 @@ export PATH=${PATH}:/mnt/f/dev/fpga/tools/Xilinx/Vivado/2021.1
 You can add these to your ~/.bashrc file to set them automatically when you login each time.
 
 # J. Instill SiFive RISC-V development kit
-The below is where I'm cloning the github repo to.  Adjust accordingly for your particular directory location.  Be patient as the submodule step takes awhile.  ;-)
+The below is where I'm cloning the github repo to.  Adjust accordingly for your particular directory location.  Be patient as the submodule update step takes awhile.  ;-)
 ```
 cd /mnt/f/dev/fpga
 sudo git clone https://github.com/sifive/freedom.git
