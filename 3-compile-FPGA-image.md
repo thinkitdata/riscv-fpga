@@ -14,7 +14,7 @@ My target directory after copying the board files:
 The board we are targeting (arty-a7-100) is highlighted in the above image.
 
 # 2. Build the Arty A7-100T RISC-V FPGA image
-The RISC-V FPGA image is compiled using __Chisel__ but we need to first edit the makefile because by default it targets the Arty A7-35T FPGA board and we are using the Arty A7-100T FPGA board.
+The RISC-V FPGA image is compiled using __Chisel__ but we need to first edit the makefile because by default it targets the Arty A7-35T FPGA board and we are using the Arty A7-100T FPGA board for this project.
 
 We need to edit /mnt/f/dev/fpga/freedom/Makefile.e300artydevkit (again adjust for your particular directory location)
 ![image](https://user-images.githubusercontent.com/8312541/132752022-b364ef66-8a14-41fe-b80f-76c78f556041.png)
