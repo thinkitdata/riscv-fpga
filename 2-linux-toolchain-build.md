@@ -143,3 +143,10 @@ My saved location
 cd to that dir
 sudo tar xvf *.gz
 
+# I. Set environmental variables for Vivado
+```
+export RISCV=/mnt/f/dev/fpga/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8-x86_64-linux-ubuntu14
+export PATH=${PATH}:/mnt/f/dev/fpga/tools/Xilinx/Vivado/2021.1
+```
+You can add these to your ~/.bashrc file to set them automatically when you login each time.
+
