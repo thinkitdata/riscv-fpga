@@ -1,4 +1,4 @@
-# Here is the procedure for building the development tool chain in Ubuntu
+# Steps necessary for building the development tool chain in Ubuntu
 
 __This is required for building the RISC-V firmware image that will be programmed onto our FPGA__
 
