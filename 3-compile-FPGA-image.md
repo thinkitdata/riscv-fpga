@@ -16,6 +16,10 @@ The board we are targeting (arty-a7-100) is highlighted in the above image.
 # 2. Build the Arty A7-100T RISC-V FPGA image
 The RISC-V FPGA image is compiled using __Chisel__ but we need to first edit the makefile because by default it targets the Arty A7-35T FPGA board and we are using the Arty A7-100T FPGA board.
 
-We need to edit freedom/Makefile.e300artydevkit
+We need to edit /mnt/f/dev/fpga/freedom/Makefile.e300artydevkit (again adjust for your particular directory location)
 ![image](https://user-images.githubusercontent.com/8312541/132752022-b364ef66-8a14-41fe-b80f-76c78f556041.png)
+
+Notice the highlighted BOARD type of arty
+We need to change this to arty_a7_100
+![image](https://user-images.githubusercontent.com/8312541/132752936-9b4700fd-7765-4817-b360-0db7d7f3aa78.png)
 
