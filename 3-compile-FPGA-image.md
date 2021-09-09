@@ -30,6 +30,7 @@ We need to change this to arty_a7_100
 
 We now need to build the toolchain for generating the implentation files that will allow us to compile our RISC-V Verilog and FPGA image.
 ```
-/mnt/f/dev/fpga/freedom/rocket-chip/riscv-tools/build.sh
+cd /mnt/f/dev/fpga/freedom/rocket-chip/riscv-tools
+sudo --preserve-env=RISCV ./build.sh
 ```
 
