@@ -11,6 +11,7 @@ My target directory before copying the board files:
 
 My target directory after copying the board files:
 ![image](https://user-images.githubusercontent.com/8312541/132750982-d3ba05dd-079c-4210-bdea-47b2dfb27ea0.png)
+The board we are targeting (arty-a7-100) is highlited in the above image
 
 # 2. Build the Arty A7-100T RISC-V FPGA image
 The RISC-V FPGA image is compiled using __Chisel__.
