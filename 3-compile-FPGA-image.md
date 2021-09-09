@@ -34,8 +34,21 @@ cd /mnt/f/dev/fpga/freedom/rocket-chip/riscv-tools
 sudo --preserve-env=RISCV ./build.sh
 ```
 ![image](https://user-images.githubusercontent.com/8312541/132760058-c6a96d01-9937-4430-8f2c-b145d99be0c3.png)
+```
+make -f Makefile.e300artydevkit verilog
+sudo --preserve-env=RISCV make -f Makefile.e300artydevkit
+sudo --preserve-env=RISCV ./build.sh
+```
+Got the below error:
 
 ![image](https://user-images.githubusercontent.com/8312541/132770533-fbc6999a-61c8-44f3-a135-e259c540c623.png)
+
+Edit common.mk line 81 to be full path of vivado
+
+Got the below error:
+![image](https://user-images.githubusercontent.com/8312541/132772173-cf50b9ac-d63a-4bd1-9871-f47e8c49a8d6.png)
+
+
 
 
 
