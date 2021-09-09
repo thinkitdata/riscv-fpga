@@ -33,5 +33,6 @@ We now need to build the toolchain for generating the implentation files that wi
 cd /mnt/f/dev/fpga/freedom/rocket-chip/riscv-tools
 sudo --preserve-env=RISCV ./build.sh
 ```
-![image](https://user-images.githubusercontent.com/8312541/132758753-a8e24d38-ae0d-49cf-8b23-8542415c82da.png)
+![image](https://user-images.githubusercontent.com/8312541/132760058-c6a96d01-9937-4430-8f2c-b145d99be0c3.png)
+
 
